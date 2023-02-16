@@ -1,0 +1,282 @@
+{
+  "settings": {
+    "language": "es",
+    "lastUpdate": "2023-01-24 11:14",
+    "easycvId": "4f3b73fa-66fd-4334-8ad6-f4461710f441"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Ventura",
+      "surnames": "Pino Moslero",
+      "title": "Senior Frontend Developer"
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Sngular",
+          "description": "Desarrollo Frontend y Fullstack en Javascript"
+        },
+        "roles": [
+          {
+            "challenges": [
+              {
+                "description": "FlyAi - Ferrovial | Plataforma de inspección de tendidos eléctricos en base a vuelos con Drones.\nEl objetivo es la toma de fotografias y videos de tendidos eléctricos para un posterior volcado en la plataforma. Desde la interfaz de la plataforma se analizan y comunican las diferentes incidencias encontradas entre las empresas responsables de la inspección.",
+                "actions": [
+                  "○ Frontend en Angular 12. |○ Backend en una arquitectura Serverless con Azure Functions, basado en Node con Mongoose. | ○ Base de datos con MongoDB | ○ Ecosistema Azure"
+                ]
+              },
+              {
+                "description": "Gobierno de componentes - BBVA | Modificación y mejora de diferentes webcomponents del catalogo de BBVA",
+                "actions": [
+                  "○ Lit element",
+                  "○ Cells CLI",
+                  "○ Testing con @open-wc/testing",
+                  "○ D3.js"
+                ]
+              }
+            ],
+            "startDate": "2021-05-01",
+            "finishDate": "2021-05-01",
+            "name": "Desarrollador Frontend"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Guadaltech ST",
+          "description": "Toma de requisitos con el cliente. | Análisis de requisitos funcionales y estimación de tareas. | Gestión de tareas para el equipo. | "
+        },
+        "roles": [
+          {
+            "challenges": [
+              {
+                "description": "Recever. Plataforma de gestión de tickets: | Análisis y toma de requisitos. Estimación de tareas. Desarrollo Frontend y Backend. ",
+                "actions": [
+                  "ReactJs en Javascript con Redux",
+                  "API Rest en Node y Loopback 3. ",
+                  "App Movil con React en Typescript sobre Capacitor."
+                ]
+              },
+              {
+                "description": "Portal de Elearning | Análisis y toma de requisitos. Estimación de tareas. Desarrollo Frontend y Backend. Desarrollo de integraciones.",
+                "actions": [
+                  "Front en Angular 9",
+                  "API Rest en Node y Loopback 3.",
+                  "Integraciones con Odoo ERP, Zoom y Vimeo."
+                ]
+              },
+              {
+                "description": "Portal de gestión de horarios y empleados | Desarrollo Frontend y Backend.",
+                "actions": [
+                  "Front en Angular 7. ",
+                  "API Rest en Node y Loopback 3. ",
+                  "App mobile con Ionic 4."
+                ]
+              },
+              {
+                "description": "Prototipo - Portal de gestión de sensores de cultivo | Desarrollo Frontend y Backend. Desarrollo de integraciones.\n",
+                "actions": [
+                  "Frontend en Angular 6. ",
+                  "Integración con API de Google Maps. ",
+                  "API REST en Node y Loopback 4 con arquitectura de microservicios."
+                ]
+              },
+              {
+                "description": "App multiplataforma para auditorias de calidad | Desarrollo Frontend.",
+                "actions": [
+                  "Framework SAPUI5 montado sobre CordovaJS. ",
+                  "Conexión con Backend SAP."
+                ]
+              },
+              {
+                "description": "Portal de gestión de incidencias | Desarrollo Frontend.",
+                "actions": [
+                  "Frontend en Angular 5. ",
+                  "API REST en Node y Express. ",
+                  "Chat de incidencias con Socket.io"
+                ]
+              }
+            ],
+            "startDate": "2020-01-07",
+            "finishDate": "2021-01-04",
+            "name": "Analista Javascript"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "venturapino.com"
+        },
+        "roles": [
+          {
+            "challenges": [
+              {
+                "description": " | Desarrollador freelance para distintos clientes. | "
+              },
+              {
+                "description": " | Aplicaciones móviles, aplicaciones en servidor en php entre otros. | "
+              },
+              {
+                "description": " | Entre mis clientes están:\n○ Universidad de Sevilla - Facultad de Filología\n○ Federación Andaluza de Montañismo\n○ GoDelivery - Comida a domicilio\n | "
+              }
+            ],
+            "startDate": "2019-01-01",
+            "finishDate": "2021-01-04",
+            "name": "Desarrollador Fullstack Freelance"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Guadaltech ST"
+        },
+        "roles": [
+          {
+            "challenges": [
+              {
+                "description": " | Diseño y desarrollo de interfaces. | "
+              },
+              {
+                "description": " | Diseño y desarrollo de servicios para APIs. | "
+              }
+            ],
+            "startDate": "2018-01-02",
+            "finishDate": "2020-01-07",
+            "name": "Desarrollador Fullstack Javascript"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Beardserk Studio S.L"
+        },
+        "roles": [
+          {
+            "challenges": [
+              {
+                "description": " | Diseño de la web de la empresa. | "
+              },
+              {
+                "description": " | Creación de contenido en base de datos de aplicaciones.  | "
+              },
+              {
+                "description": " | Creación y testeo de funcionalidades. | "
+              }
+            ],
+            "startDate": "2016-01-10",
+            "finishDate": "2017-01-08",
+            "name": "Auxiliar en Desarrollo Web "
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "venturapino.com"
+        },
+        "roles": [
+          {
+            "challenges": [
+              {
+                "description": " | Creación de webs basadas en CMS Wordpress. | "
+              },
+              {
+                "description": " | Desarrollo de pequeñas aplicaciones web PHP.\n | "
+              }
+            ],
+            "startDate": "2014-01-01",
+            "finishDate": "2018-01-02",
+            "name": "Maquetador Web Freelance"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "contactMails": [
+        "ventura.pino@sngular.com"
+      ]
+    }
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Angular. React y Redux. NodeJs. Express, Loopback 3 y 4|",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Desarrollo Frontend Javascript/Typescript",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Metodologias Agiles, GitFlow",
+          "type": "domain"
+        }
+      }
+    ],
+    "languages": [
+      {
+        "name": "Inglés (B1) |"
+      }
+    ],
+    "studies": [
+      {
+        "institution": {
+          "name": "MongoDB University "
+        },
+        "name": "Certificación MongoDb Associate Developer",
+        "startDate": "2023-01-02",
+        "degreeAchieved": true,
+        "studyType": "officialDegree"
+      },
+      {
+        "institution": {
+          "name": "CoreNetworks"
+        },
+        "name": "Modelado de Datos en Mongodb",
+        "startDate": "2020-01-01",
+        "degreeAchieved": true,
+        "studyType": "officialDegree"
+      },
+      {
+        "institution": {
+          "name": "CoreNetworks"
+        },
+        "name": "Modelado Avanzado de Datos en PostgreSql",
+        "startDate": "2020-01-01",
+        "degreeAchieved": true,
+        "studyType": "officialDegree"
+      },
+      {
+        "name": "Curso Especialización Fullstack Javascript",
+        "startDate": "2019-01-01",
+        "degreeAchieved": true,
+        "studyType": "officialDegree"
+      },
+      {
+        "name": "Gestion agil de proyectos con Scrum",
+        "startDate": "2019-01-01",
+        "degreeAchieved": true,
+        "studyType": "officialDegree"
+      },
+      {
+        "institution": {
+          "name": "Nestor Almendros"
+        },
+        "name": "TECNICO SUPERIOR EN REALIZACIÓN DE AUDIOVISUALES",
+        "startDate": "2012-01-01",
+        "degreeAchieved": true,
+        "studyType": "officialDegree"
+      }
+    ]
+  }
+}
