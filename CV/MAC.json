@@ -21,11 +21,82 @@
       }
     ]
   },
-  "knowledge": {
+ "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Angular. React y Redux. NodeJs. Express, Loopback 3 y 4|",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Desarrollo Frontend Javascript/Typescript",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Metodologias Agiles, GitFlow",
+          "type": "domain"
+        }
+      }
+    ],
     "languages": [
       {
-        "name": "English",
-        "level": "Native or bilingual proficiency"
+        "name": "Inglés (B1) |"
+      }
+    ],
+    "studies": [
+      {
+        "institution": {
+          "name": "MongoDB University "
+        },
+        "name": "Certificación MongoDb Associate Developer",
+        "startDate": "2023-01-02",
+        "degreeAchieved": true,
+        "studyType": "officialDegree"
+      },
+      {
+        "institution": {
+          "name": "CoreNetworks"
+        },
+        "name": "Modelado de Datos en Mongodb",
+        "startDate": "2020-01-01",
+        "degreeAchieved": true,
+        "studyType": "officialDegree"
+      },
+      {
+        "institution": {
+          "name": "CoreNetworks"
+        },
+        "name": "Modelado Avanzado de Datos en PostgreSql",
+        "startDate": "2020-01-01",
+        "degreeAchieved": true,
+        "studyType": "officialDegree"
+      },
+      {
+        "name": "Curso Especialización Fullstack Javascript",
+        "startDate": "2019-01-01",
+        "degreeAchieved": true,
+        "studyType": "officialDegree"
+      },
+      {
+        "name": "Gestion agil de proyectos con Scrum",
+        "startDate": "2019-01-01",
+        "degreeAchieved": true,
+        "studyType": "officialDegree"
+      },
+      {
+        "institution": {
+          "name": "Nestor Almendros"
+        },
+        "name": "TECNICO SUPERIOR EN REALIZACIÓN DE AUDIOVISUALES",
+        "startDate": "2012-01-01",
+        "degreeAchieved": true,
+        "studyType": "officialDegree"
       }
     ]
   },
