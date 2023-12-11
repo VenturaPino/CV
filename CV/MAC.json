@@ -358,5 +358,29 @@
       ]
     },
     "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "API",
+        "type": "technology"
+      },
+      {
+        "name": "Angular2+",
+        "type": "technology"
+      },
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "MongoDB",
+        "type": "technology"
+      }
+    ]
   }
 }
