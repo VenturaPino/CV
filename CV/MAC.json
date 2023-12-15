@@ -8,7 +8,12 @@
     "profile": {
       "name": "Ventura",
       "surnames": "Pino",
-      "title": "Title",
+      "title": "Senior Frontend Developer en Sngular",
+      "description": "Mi objetivo profesional es obtener un puesto relacionado con el diseño y el mantenimiento de páginas web, así como el desarrollo y creación de aplicaciones en Unity 3D. En el cual pueda desarrollar mis capacidades laborales y desempeñar labores propias de mi formación.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/37851e71-c615-4539-9a52-6a06fb8980a9_linkedin-photo-17718.linkedin-photo-17718",
+        "alt": "23/12/15/37851e71-c615-4539-9a52-6a06fb8980a9_linkedin-photo-17718.linkedin-photo-17718"
+      },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJkWK-FBFsEg0RSFb-HGIY8DQ)",
         "country": "España",
@@ -19,113 +24,7 @@
     "relevantLinks": [
       {
         "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/ventura-pino-345786b0/"
-      }
-    ]
-  },
-  "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Sngular"
-        },
-        "roles": [
-          {
-            "name": "Desarrollador Frontend",
-            "startDate": "2021-05-01",
-            "finishDate": "2021-05-01",
-            "challenges": [
-              {
-                "description": "FlyAi - Ferrovial | Plataforma de inspección de tendidos eléctricos en base a vuelos con Drones.\nEl objetivo es la toma de fotografias y videos de tendidos eléctricos para un posterior volcado en la plataforma. Desde la interfaz de la plataforma se analizan y comunican las diferentes incidencias encontradas entre las empresas responsables de la inspección."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Guadaltech ST"
-        },
-        "roles": [
-          {
-            "name": "Analista Javascript",
-            "startDate": "2020-01-07",
-            "finishDate": "2021-01-04",
-            "challenges": [
-              {
-                "description": "Recever. Plataforma de gestión de tickets: | Análisis y toma de requisitos. Estimación de tareas. Desarrollo Frontend y Backend. "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "venturapino.com"
-        },
-        "roles": [
-          {
-            "name": "Desarrollador Fullstack Freelance",
-            "startDate": "2019-01-01",
-            "finishDate": "2021-01-04",
-            "challenges": [
-              {
-                "description": " | Desarrollador freelance para distintos clientes. | "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Guadaltech ST"
-        },
-        "roles": [
-          {
-            "name": "Desarrollador Fullstack Javascript",
-            "startDate": "2018-01-02",
-            "finishDate": "2020-01-07",
-            "challenges": [
-              {
-                "description": " | Diseño y desarrollo de interfaces. | "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Beardserk Studio S.L"
-        },
-        "roles": [
-          {
-            "name": "Auxiliar en Desarrollo Web ",
-            "startDate": "2016-01-10",
-            "finishDate": "2017-01-08",
-            "challenges": [
-              {
-                "description": " | Diseño de la web de la empresa. | "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "venturapino.com"
-        },
-        "roles": [
-          {
-            "name": "Maquetador Web Freelance",
-            "startDate": "2014-01-01",
-            "finishDate": "2018-01-02",
-            "challenges": [
-              {
-                "description": " | Creación de webs basadas en CMS Wordpress. | "
-              }
-            ]
-          }
-        ]
+        "URL": "https://linkedin.com/in/ventura-pino-345786b0"
       }
     ]
   },
@@ -278,7 +177,7 @@
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/ventura-pino-345786b0/",
+          "URL": "https://linkedin.com/in/ventura-pino-345786b0",
           "type": "linkedin"
         }
       ],
