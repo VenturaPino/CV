@@ -11,8 +11,8 @@
       "title": "Senior Frontend Developer en Sngular",
       "description": "Mi objetivo profesional es obtener un puesto relacionado con el diseño y el mantenimiento de páginas web, así como el desarrollo y creación de aplicaciones en Unity 3D. En el cual pueda desarrollar mis capacidades laborales y desempeñar labores propias de mi formación.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/e1e53615-c881-4403-9f3d-fb2fbbecd281_linkedin-photo-17718.linkedin-photo-17718",
-        "alt": "23/12/15/e1e53615-c881-4403-9f3d-fb2fbbecd281_linkedin-photo-17718.linkedin-photo-17718"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/bceccfc8-bfea-4d9f-994a-260bfc960baa_linkedin-photo-17718.linkedin-photo-17718",
+        "alt": "23/12/15/bceccfc8-bfea-4d9f-994a-260bfc960baa_linkedin-photo-17718.linkedin-photo-17718"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJkWK-FBFsEg0RSFb-HGIY8DQ)",
@@ -25,6 +25,165 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/ventura-pino-345786b0"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Sngular",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/55d54bb2-dc7a-4416-b852-d287ef7914ae_linkedin-photo-17718.linkedin-photo-17718",
+            "alt": "23/12/15/55d54bb2-dc7a-4416-b852-d287ef7914ae_linkedin-photo-17718.linkedin-photo-17718"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Frontend Developer",
+            "startDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": "Skills: Scrum"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Autonomo"
+        },
+        "roles": [
+          {
+            "name": "Freelance developer",
+            "startDate": "2019-08-01",
+            "finishDate": "2021-05-31",
+            "challenges": [
+              {
+                "description": "Desarrollador web y mobile en diferentes proyectos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GuadalTech Soluciones Tecnológicas"
+        },
+        "roles": [
+          {
+            "name": "Fullstack & Mobile Javascript Developer",
+            "startDate": "2018-02-01",
+            "finishDate": "2021-05-31",
+            "challenges": [
+              {
+                "description": "Desarrollador de software basado en Javascript. Angular y React Js en el Frontend. NodeJs y Express/Loopback/Socket.io en el backend. Ionic en ecosistema Mobile"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Beardserk Studio",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/a8f6b83e-ebce-4968-9edb-b0ba8a09b94e_linkedin-photo-17718.linkedin-photo-17718",
+            "alt": "23/12/15/a8f6b83e-ebce-4968-9edb-b0ba8a09b94e_linkedin-photo-17718.linkedin-photo-17718"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de Unity 3D",
+            "startDate": "2016-10-01",
+            "finishDate": "2017-08-31",
+            "challenges": [
+              {
+                "description": "Diseño de la web de la empresa. Creación de contenido en base de datos de aplicaciones para PC y dispositivos moviles. Creación y testeo de niveles."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ventura Pino Diseño Web"
+        },
+        "roles": [
+          {
+            "name": "Diseñador de páginas web",
+            "startDate": "2015-08-01",
+            "finishDate": "2018-01-31",
+            "challenges": [
+              {
+                "description": "Creación de webs basadas en CMS Wordpress. Retoque y personalización para el cliente en HTML5, CSS3 y Javascript. Desarrollo de pequeñas aplicaciones web PHP"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Diseño web Sevilla www.quequiereshacer.es",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/213349ac-2b81-48e9-9798-3944f3a3cce8_linkedin-photo-17718.linkedin-photo-17718",
+            "alt": "23/12/15/213349ac-2b81-48e9-9798-3944f3a3cce8_linkedin-photo-17718.linkedin-photo-17718"
+          }
+        },
+        "roles": [
+          {
+            "name": "Tecnico en S.E.O. y Publicidad Digital",
+            "startDate": "2015-01-01",
+            "finishDate": "2016-07-31",
+            "challenges": [
+              {
+                "description": "Creación de enlaces, videos publicitarios, banners y actividades de comunity manager para mejora de posicionamiento de páginas de empresas varias."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Genera Games",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/98bbbafe-5417-4640-990b-9463816947f3_linkedin-photo-17718.linkedin-photo-17718",
+            "alt": "23/12/15/98bbbafe-5417-4640-990b-9463816947f3_linkedin-photo-17718.linkedin-photo-17718"
+          }
+        },
+        "roles": [
+          {
+            "name": "Auxiliar de produccion de videojuegos",
+            "startDate": "2014-06-01",
+            "finishDate": "2014-12-31",
+            "challenges": [
+              {
+                "description": "Diseñador de niveles, elementos 3D y testeador de aplicaciones"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Genera Games",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/df3d6689-e16b-4e98-87e5-32470766599a_linkedin-photo-17718.linkedin-photo-17718",
+            "alt": "23/12/15/df3d6689-e16b-4e98-87e5-32470766599a_linkedin-photo-17718.linkedin-photo-17718"
+          }
+        },
+        "roles": [
+          {
+            "name": "Becario auxiliar de videojuegos",
+            "startDate": "2014-04-01",
+            "finishDate": "2014-06-30",
+            "challenges": [
+              {
+                "description": "Ayudante en tareas de 3d, testing de aplicaciones y produccion audiovisual de spots"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
