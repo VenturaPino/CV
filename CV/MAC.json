@@ -11,8 +11,8 @@
       "title": "Senior Frontend Developer | Cells Developer en BBVA Technology",
       "description": "Como Desarrollador Frontend Senior, no solo traigo habilidades técnicas avanzadas en JavaScript, React y Angular, sino también un enfoque centrado en la colaboración y las habilidades blandas.\n\nMi capacidad para comunicarme efectivamente y trabajar en equipo, combinada con una pasión por la resolución creativa de problemas, asegura un ambiente de desarrollo positivo. Soy apasionado por mantenerme actualizado en las últimas tendencias y comprometido con la excelencia en cada línea de código.\n\nEstoy listo para aportar no solo experiencia técnica, sino también un toque humano que potencie la dinámica de tu equipo y la calidad de tus proyectos. ¡Vamos a construir algo increíble juntos!",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/15/abb11916-8c98-4d57-b43d-32ef716d16b9_linkedin-photo-17718.linkedin-photo-17718",
-        "alt": "24/07/15/abb11916-8c98-4d57-b43d-32ef716d16b9_linkedin-photo-17718.linkedin-photo-17718"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/15/eee0fc19-eb91-4f7a-862b-6812fa8383fc_linkedin-photo-17718.linkedin-photo-17718",
+        "alt": "24/07/15/eee0fc19-eb91-4f7a-862b-6812fa8383fc_linkedin-photo-17718.linkedin-photo-17718"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJkWK-FBFsEg0RSFb-HGIY8DQ)",
@@ -25,6 +25,186 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/ventura-pino-345786b0"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "BBVA Technology en Europa",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/15/1639d839-a79d-4328-9f03-b818bbce77ff_linkedin-photo-17718.linkedin-photo-17718",
+            "alt": "24/07/15/1639d839-a79d-4328-9f03-b818bbce77ff_linkedin-photo-17718.linkedin-photo-17718"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Frontend Developer",
+            "startDate": "2024-02-01",
+            "challenges": [
+              {
+                "description": "Skills: JavaScript · Desarrollo front end · Testing · Hojas de estilos en cascada (CSS) · Clean Coding · HTML5 · Componentes web · Transferencia de Estado Representacional (REST)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sngular",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/15/51544f34-782e-4c89-97bf-7f94c712d7c7_linkedin-photo-17718.linkedin-photo-17718",
+            "alt": "24/07/15/51544f34-782e-4c89-97bf-7f94c712d7c7_linkedin-photo-17718.linkedin-photo-17718"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Frontend Developer",
+            "startDate": "2021-05-01",
+            "finishDate": "2024-03-31",
+            "challenges": [
+              {
+                "description": "Skills: Clean Coding · Componentes web · Scrum · Transferencia de Estado Representacional (REST)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Autonomo"
+        },
+        "roles": [
+          {
+            "name": "Freelance developer",
+            "startDate": "2019-08-01",
+            "finishDate": "2021-05-31",
+            "challenges": [
+              {
+                "description": "Desarrollador web y mobile en diferentes proyectos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GuadalTech Soluciones Tecnológicas"
+        },
+        "roles": [
+          {
+            "name": "Fullstack & Mobile Javascript Developer",
+            "startDate": "2018-02-01",
+            "finishDate": "2021-05-31",
+            "challenges": [
+              {
+                "description": "Desarrollador de software basado en Javascript. Angular y React Js en el Frontend. NodeJs y Express/Loopback/Socket.io en el backend. Ionic en ecosistema Mobile"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Beardserk Studio",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/15/786c020e-7ebc-4180-bfbe-514354047de3_linkedin-photo-17718.linkedin-photo-17718",
+            "alt": "24/07/15/786c020e-7ebc-4180-bfbe-514354047de3_linkedin-photo-17718.linkedin-photo-17718"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de Unity 3D",
+            "startDate": "2016-10-01",
+            "finishDate": "2017-08-31",
+            "challenges": [
+              {
+                "description": "Diseño de la web de la empresa. Creación de contenido en base de datos de aplicaciones para PC y dispositivos moviles. Creación y testeo de niveles."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ventura Pino Diseño Web"
+        },
+        "roles": [
+          {
+            "name": "Diseñador de páginas web",
+            "startDate": "2015-08-01",
+            "finishDate": "2018-01-31",
+            "challenges": [
+              {
+                "description": "Creación de webs basadas en CMS Wordpress. Retoque y personalización para el cliente en HTML5, CSS3 y Javascript. Desarrollo de pequeñas aplicaciones web PHP"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Diseño web Sevilla www.quequiereshacer.es",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/15/546e948f-a5ce-4b04-9926-11aefac3fc27_linkedin-photo-17718.linkedin-photo-17718",
+            "alt": "24/07/15/546e948f-a5ce-4b04-9926-11aefac3fc27_linkedin-photo-17718.linkedin-photo-17718"
+          }
+        },
+        "roles": [
+          {
+            "name": "Tecnico en S.E.O. y Publicidad Digital",
+            "startDate": "2015-01-01",
+            "finishDate": "2016-07-31",
+            "challenges": [
+              {
+                "description": "Creación de enlaces, videos publicitarios, banners y actividades de comunity manager para mejora de posicionamiento de páginas de empresas varias."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Genera Games",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/15/e6426915-4034-457d-9d5f-3ced5d21b007_linkedin-photo-17718.linkedin-photo-17718",
+            "alt": "24/07/15/e6426915-4034-457d-9d5f-3ced5d21b007_linkedin-photo-17718.linkedin-photo-17718"
+          }
+        },
+        "roles": [
+          {
+            "name": "Auxiliar de produccion de videojuegos",
+            "startDate": "2014-06-01",
+            "finishDate": "2014-12-31",
+            "challenges": [
+              {
+                "description": "Diseñador de niveles, elementos 3D y testeador de aplicaciones"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Genera Games",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/15/63b2b094-1705-42d8-b2c9-3075c4d3ce33_linkedin-photo-17718.linkedin-photo-17718",
+            "alt": "24/07/15/63b2b094-1705-42d8-b2c9-3075c4d3ce33_linkedin-photo-17718.linkedin-photo-17718"
+          }
+        },
+        "roles": [
+          {
+            "name": "Becario auxiliar de videojuegos",
+            "startDate": "2014-04-01",
+            "finishDate": "2014-06-30",
+            "challenges": [
+              {
+                "description": "Ayudante en tareas de 3d, testing de aplicaciones y produccion audiovisual de spots"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -130,20 +310,24 @@
     ],
     "studies": [
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "MongoDB Associate Developer Node.js",
-        "startDate": "2023-01-01",
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado Superior en Realización de Espectáculos y Audiovisuales",
+        "startDate": "2012-01-01",
         "institution": {
-          "name": "MongoDB University",
-          "URL": "https://learn.mongodb.com/c/MQ9FpNijSryrw_lyC2TqLA"
+          "name": "I.E.S Nestor Almendros"
         },
-        "linkedCompetences": [
-          {
-            "name": "MongoDB",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2014-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "MEAN Stack y tecnologias Javascript, Desarrollo de aplicaciones web",
+        "startDate": "2017-01-01",
+        "institution": {
+          "name": "Core Networks"
+        },
+        "finishDate": "2018-01-01"
       }
     ],
     "softSkills": [
